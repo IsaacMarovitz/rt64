@@ -265,6 +265,7 @@ set (SOURCES
 
     "${PROJECT_SOURCE_DIR}/src/rhi/rt64_render_hooks.cpp"
     "${PROJECT_SOURCE_DIR}/src/vulkan/rt64_vulkan.cpp"
+    "${PROJECT_SOURCE_DIR}/src/metal/rt64_metal.cpp"
 
     "${PROJECT_SOURCE_DIR}/src/contrib/imgui/imgui.cpp"
     "${PROJECT_SOURCE_DIR}/src/contrib/imgui/imgui_demo.cpp"
